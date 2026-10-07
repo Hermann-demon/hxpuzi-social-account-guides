@@ -9,6 +9,7 @@
 | Discord账号Token登录怎么用？满月号与半年老号到手验收教程（2026） | [discord-token-login-guide/](discord-token-login-guide/) |
 | Gmail账号到手怎么安全登录？辅助邮箱、短信验证与2FA核对教程（2026） | [gmail-safe-login-guide/](gmail-safe-login-guide/) |
 | 2FA密钥怎么用？一篇看懂2FA验证码生成与IG/FB/X/Threads首登教程（2026） | [2fa-key-login-guide/](2fa-key-login-guide/) |
+| Facebook二次解限号和三次解限号有什么区别？怎么选、到手怎么验收（2026） | [facebook-reinstated-2nd-vs-3rd-guide/](facebook-reinstated-2nd-vs-3rd-guide/) |
 
 ## 相关官网入口
 
@@ -17,6 +18,8 @@
 - [Instagram分类](https://hxpuzi.com/instagram/?utm_source=github)
 - [Threads账号分类](https://hxpuzi.com/threads-account/?utm_source=github)
 - [Facebook分类](https://hxpuzi.com/facebook/?utm_source=github)
+- [Facebook二次解限号分类](https://hxpuzi.com/facebook-reinstated-account/?utm_source=github)
+- [Facebook三次解限号分类](https://hxpuzi.com/facebook-reinstated-account-3/?utm_source=github)
 - [X/Twitter分类](https://hxpuzi.com/x-twitter/?utm_source=github)
 - [使用教程列表](https://hxpuzi.com/articles/?utm_source=github)
 - [官网首页](https://hxpuzi.com/?utm_source=github)
