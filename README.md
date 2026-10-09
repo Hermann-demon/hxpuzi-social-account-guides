@@ -10,6 +10,7 @@
 | Gmail账号到手怎么安全登录？辅助邮箱、短信验证与2FA核对教程（2026） | [gmail-safe-login-guide/](gmail-safe-login-guide/) |
 | 2FA密钥怎么用？一篇看懂2FA验证码生成与IG/FB/X/Threads首登教程（2026） | [2fa-key-login-guide/](2fa-key-login-guide/) |
 | Facebook二次解限号和三次解限号有什么区别？怎么选、到手怎么验收（2026） | [facebook-reinstated-2nd-vs-3rd-guide/](facebook-reinstated-2nd-vs-3rd-guide/) |
+| Threads账号怎么登录？IG+Threads地区号首登与“资料归属地”核对教程（2026） | [threads-account-login-guide/](threads-account-login-guide/) |
 
 ## 相关官网入口
 
