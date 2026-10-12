@@ -11,6 +11,7 @@
 | 2FA密钥怎么用？一篇看懂2FA验证码生成与IG/FB/X/Threads首登教程（2026） | [2fa-key-login-guide/](2fa-key-login-guide/) |
 | Facebook二次解限号和三次解限号有什么区别？怎么选、到手怎么验收（2026） | [facebook-reinstated-2nd-vs-3rd-guide/](facebook-reinstated-2nd-vs-3rd-guide/) |
 | Threads账号怎么登录？IG+Threads地区号首登与“资料归属地”核对教程（2026） | [threads-account-login-guide/](threads-account-login-guide/) |
+| 海外账号登录提示密码错误怎么办？IP环境、设备与缓存排查教程（2026） | [login-password-error-guide/](login-password-error-guide/) |
 
 ## 相关官网入口
 
