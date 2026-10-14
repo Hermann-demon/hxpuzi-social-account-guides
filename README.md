@@ -12,6 +12,7 @@
 | Facebook二次解限号和三次解限号有什么区别？怎么选、到手怎么验收（2026） | [facebook-reinstated-2nd-vs-3rd-guide/](facebook-reinstated-2nd-vs-3rd-guide/) |
 | Threads账号怎么登录？IG+Threads地区号首登与“资料归属地”核对教程（2026） | [threads-account-login-guide/](threads-account-login-guide/) |
 | 海外账号登录提示密码错误怎么办？IP环境、设备与缓存排查教程（2026） | [login-password-error-guide/](login-password-error-guide/) |
+| X/Twitter真人号怎么选？美国、日本、台湾、韩国真人号的粉丝档位与注册年份对比（2026） | [x-twitter-real-account-guide/](x-twitter-real-account-guide/) |
 
 ## 相关官网入口
 
@@ -23,6 +24,7 @@
 - [Facebook二次解限号分类](https://hxpuzi.com/facebook-reinstated-account/?utm_source=github)
 - [Facebook三次解限号分类](https://hxpuzi.com/facebook-reinstated-account-3/?utm_source=github)
 - [X/Twitter分类](https://hxpuzi.com/x-twitter/?utm_source=github)
+- [X/Twitter真人号](https://hxpuzi.com/x-twitter-real-account/?utm_source=github)
 - [使用教程列表](https://hxpuzi.com/articles/?utm_source=github)
 - [官网首页](https://hxpuzi.com/?utm_source=github)
 
