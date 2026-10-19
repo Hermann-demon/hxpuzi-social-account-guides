@@ -14,12 +14,15 @@
 | 海外账号登录提示密码错误怎么办？IP环境、设备与缓存排查教程（2026） | [login-password-error-guide/](login-password-error-guide/) |
 | X/Twitter真人号怎么选？美国、日本、台湾、韩国真人号的粉丝档位与注册年份对比（2026） | [x-twitter-real-account-guide/](x-twitter-real-account-guide/) |
 | TikTok新号、满年老号和粉丝号怎么选？按用途对比价格与稳定性（2026） | [tiktok-new-aged-follower-guide/](tiktok-new-aged-follower-guide/) |
+| Instagram新号到手第一周怎么用？2FA新号首登、资料完善与使用节奏（2026） | [instagram-new-account-first-week-guide/](instagram-new-account-first-week-guide/) |
 
 ## 相关官网入口
 
 - [Gmail账号分类](https://hxpuzi.com/gmail-account/?utm_source=github)
 - [Discord账号分类](https://hxpuzi.com/discord-account/?utm_source=github)
 - [Instagram分类](https://hxpuzi.com/instagram/?utm_source=github)
+- [Instagram新号](https://hxpuzi.com/instagram-new/?utm_source=github)
+- [Instagram老号](https://hxpuzi.com/instagram-age/?utm_source=github)
 - [Threads账号分类](https://hxpuzi.com/threads-account/?utm_source=github)
 - [Facebook分类](https://hxpuzi.com/facebook/?utm_source=github)
 - [Facebook二次解限号分类](https://hxpuzi.com/facebook-reinstated-account/?utm_source=github)
