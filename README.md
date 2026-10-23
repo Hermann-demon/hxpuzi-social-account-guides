@@ -16,6 +16,7 @@
 | TikTok新号、满年老号和粉丝号怎么选？按用途对比价格与稳定性（2026） | [tiktok-new-aged-follower-guide/](tiktok-new-aged-follower-guide/) |
 | Instagram新号到手第一周怎么用？2FA新号首登、资料完善与使用节奏（2026） | [instagram-new-account-first-week-guide/](instagram-new-account-first-week-guide/) |
 | Facebook Cookie（CK）登录是什么？什么时候用、失败原因与安全边界（2026更新） | [facebook-cookie-login-guide/](facebook-cookie-login-guide/) |
+| Apple ID小火箭成品号怎么用？Shadowrocket已购账号下载、更新与退出教程（2026） | [apple-id-shadowrocket-download-update-guide/](apple-id-shadowrocket-download-update-guide/) |
 
 ## 相关官网入口
 
