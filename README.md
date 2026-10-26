@@ -17,6 +17,7 @@
 | Instagram新号到手第一周怎么用？2FA新号首登、资料完善与使用节奏（2026） | [instagram-new-account-first-week-guide/](instagram-new-account-first-week-guide/) |
 | Facebook Cookie（CK）登录是什么？什么时候用、失败原因与安全边界（2026更新） | [facebook-cookie-login-guide/](facebook-cookie-login-guide/) |
 | Apple ID小火箭成品号怎么用？Shadowrocket已购账号下载、更新与退出教程（2026） | [apple-id-shadowrocket-download-update-guide/](apple-id-shadowrocket-download-update-guide/) |
+| 第一次买海外社媒账号？火星小铺下单、订单查询与“包首登”售后完整指南（2026） | [hxpuzi-first-order-guide/](hxpuzi-first-order-guide/) |
 
 ## 相关官网入口
 
